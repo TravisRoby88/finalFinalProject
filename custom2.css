@@ -1,0 +1,10 @@
+.navbar-brand{
+    padding-left: 100px; 
+}
+.navbar-text{
+    display: flex;
+    position: left;
+}
+footer{
+    background-color: darkgrey;
+}
