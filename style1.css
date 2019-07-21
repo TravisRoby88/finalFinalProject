@@ -190,6 +190,7 @@ h4{
     text-transform: uppercase;
     text-decoration-color: darkslategray;
 }
+/*Images will display larger*/
 
 .main-container img:hover{
     transform: scale(2, 2);
